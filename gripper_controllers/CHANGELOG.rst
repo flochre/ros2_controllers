@@ -2,6 +2,25 @@
 Changelog for package gripper_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.17.3 (2023-04-14)
+-------------------
+
+2.17.2 (2023-03-07)
+-------------------
+* Fix Segfault in GripperActionController (`#527 <https://github.com/ros-controls/ros2_controllers/issues/527>`_) (`#530 <https://github.com/ros-controls/ros2_controllers/issues/530>`_)
+* Contributors: Erik Holum, Bence Magyar
+
+2.17.1 (2023-02-20)
+-------------------
+
+2.17.0 (2023-02-13)
+-------------------
+
+2.16.1 (2023-01-31)
+-------------------
+* Changing to_chrono to use nanoseconds (`#507 <https://github.com/ros-controls/ros2_controllers/issues/507>`_) (`#509 <https://github.com/ros-controls/ros2_controllers/issues/509>`_)
+* Contributors: Dan Wahl
+
 2.16.0 (2023-01-19)
 -------------------
 * Add backward_ros to all controllers (`#489 <https://github.com/ros-controls/ros2_controllers/issues/489>`_) (`#493 <https://github.com/ros-controls/ros2_controllers/issues/493>`_)
