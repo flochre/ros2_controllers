@@ -2,6 +2,26 @@
 Changelog for package rqt_joint_trajectory_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.23.0 (2023-06-23)
+-------------------
+
+2.22.0 (2023-06-14)
+-------------------
+
+2.21.0 (2023-05-28)
+-------------------
+
+2.20.0 (2023-05-14)
+-------------------
+* switch from dash to underscore in setup.cfg (`#595 <https://github.com/ros-controls/ros2_controllers/issues/595>`_) (`#599 <https://github.com/ros-controls/ros2_controllers/issues/599>`_)
+* Contributors: mergify[bot]
+
+2.19.0 (2023-05-02)
+-------------------
+
+2.18.0 (2023-04-29)
+-------------------
+
 2.17.3 (2023-04-14)
 -------------------
 
