@@ -2,6 +2,32 @@
 Changelog for package gripper_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.23.0 (2023-06-23)
+-------------------
+* Renovate load controller tests (`#569 <https://github.com/ros-controls/ros2_controllers/issues/569>`_) (`#677 <https://github.com/ros-controls/ros2_controllers/issues/677>`_)
+* Contributors: Bence Magyar
+
+2.22.0 (2023-06-14)
+-------------------
+* Let sphinx add parameter description to documentation (backport `#651 <https://github.com/ros-controls/ros2_controllers/issues/651>`_) (`#663 <https://github.com/ros-controls/ros2_controllers/issues/663>`_)
+* [JTC] Fix missing parameter deprecation warnings (`#630 <https://github.com/ros-controls/ros2_controllers/issues/630>`_)
+* Contributors: Noel Jiménez García, Christoph Fröhlich
+
+2.21.0 (2023-05-28)
+-------------------
+* Fix compilation warnings (`#621 <https://github.com/ros-controls/ros2_controllers/issues/621>`_) (`#623 <https://github.com/ros-controls/ros2_controllers/issues/623>`_)
+* Fix overriding of install (`#510 <https://github.com/ros-controls/ros2_controllers/issues/510>`_) (`#605 <https://github.com/ros-controls/ros2_controllers/issues/605>`_)
+* Contributors: Felix Exner (fexner), Christoph Fröhlich, Mathias Lüdtke, Noel Jiménez García
+
+2.20.0 (2023-05-14)
+-------------------
+
+2.19.0 (2023-05-02)
+-------------------
+
+2.18.0 (2023-04-29)
+-------------------
+
 2.17.3 (2023-04-14)
 -------------------
 
